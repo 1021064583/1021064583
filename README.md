@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 欢迎来到我的 GitHub 主页！
+
+我是一个热爱编程的开发者，擅长以下技术：
+
+- **Python**
+- **JavaScript**
+- **HTML/CSS**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chenhanwei)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenhanwei)
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=chenhanwei)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chenhanwei)
